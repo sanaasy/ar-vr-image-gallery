@@ -5,7 +5,7 @@ a virtual reality image gallery
 using A-Frame
 
 # how to run it
-check out this link to see it on your browser!](https://sanaa-image-gallery.glitch.me)
+[check out this link to see it on your browser!](https://sanaa-image-gallery.glitch.me)
 ## OR 
 1. ```git clone``` this repo 
 2. ```npm install```
