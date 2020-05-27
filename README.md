@@ -1,5 +1,5 @@
 # ⚡ ar-vr-image-gallery
-an virtual reality image gallery
+a virtual reality image gallery
 
 # how it was made
 using A-Frame
